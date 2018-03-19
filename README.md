@@ -15,7 +15,8 @@ Complete la tabla:
 
 | Integrante | github nick |
 |------------|-------------|
-|            |             |
+|Jhonatan Javier Guzman      | Jhonnyguzz             |
+|Cristian Eduardo Galeano    | Nickname               |
 
 ## Discusión
 
