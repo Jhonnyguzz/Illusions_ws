@@ -1,3 +1,4 @@
+
 # Taller ilusiones visuales
 
 ## Propósito
@@ -13,10 +14,10 @@ Implementar al menos 6 ilusiones de tres tipos distintos (paradójicas, geométr
 
 Complete la tabla:
 
-| Integrante | github nick |
-|------------|-------------|
-|Jhonatan Javier Guzman      | Jhonnyguzz             |
-|Cristian Eduardo Galeano    | Nickname               |
+|    Integrante    | github nick |
+|------------------|-------------|
+| Eduardo Galeano  | cegard     |
+| Jhonatan Guzmán  | Jhonnyguzz    |
 
 ## Discusión
 
@@ -24,16 +25,19 @@ Complete la tabla:
 
 | Ilusión | Categoria | Referencia | Tipo de interactividad (si aplica) | URL código base (si aplica) |
 |---------|-----------|------------|------------------------------------|-----------------------------|
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
-|         |           |            |                                    |                             |
+|       Cono en movimiento  |    kinetica, biestable       |            |               | https://github.com/Cegard/moving_pine  | 
+|  Representación de Dynamic Müller-Lyer     |    geométrica        |    http://illusionoftheyear.com/2017/10/dynamic-muller-lyer-illusion/        |                              Barra espaciadora para cambiar orientación de las flechas.      |        https://github.com/Cegard/lines_illusion                     |
+|      Cubo de Necker   |        biestable   |   https://en.wikipedia.org/wiki/Necker_cube         |                                    |     https://github.com/Cegard/cube_illusion                        |
+|         |           |            |                                   |                        https://github.com/Jhonnyguzz/ilusiones_visual/tree/master/uno    |
+|         |           |            |                                    |                           https://github.com/Jhonnyguzz/ilusiones_visual/tree/master/dos  |
+|         |           |            |                                    |                          https://github.com/Jhonnyguzz/ilusiones_visual/tree/master/tres  |
 
 2. Describa brevememente las referencias estudiadas y los posibles temas en los que le gustaría profundizar:
+ Las ilusiones de tipo biestable tienen la particularidad de que dependen del observador, este es un tema interesante de profundización.
+
 
 ## Entrega
 
 * Modo de entrega: [Fork](https://help.github.com/articles/fork-a-repo/) la plantilla en las cuentas de los integrantes (de las que se tomará una al azar).
 * Plazo: 18/3/18 a las 24h.
+
